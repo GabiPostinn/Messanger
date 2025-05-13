@@ -92,7 +92,14 @@ p {
   width: 100%;
   height: 100%;
 }
-.iphone2 {
+.iphone {
   width: 100%;
   height: 100%;
+  position: sticky;
+  top: 1px;
+}
+.iphone-position {
+  position: sticky;
+  background: black;
+  top: 0;
 }
